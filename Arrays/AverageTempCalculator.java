@@ -22,15 +22,15 @@ public class AverageTempCalculator {
         double average = sum / numDays;
         System.out.printf("Average temperature for %d days: %.2f\n", numDays, average);
 
-        int numbersAboveAverage = 0;
+        int daysAboveAverage = 0;
 
         for (int i = 0; i < numDays; i++) {
             if (temps[i] > average) {
-                numbersAboveAverage ++;
+                daysAboveAverage ++;
             }
         }
 
-        System.out.println("Days above calculated average temperature: " + numbersAboveAverage);
+        System.out.println("Days above calculated average temperature: " + daysAboveAverage);
         scanner.close();
     }
 }
