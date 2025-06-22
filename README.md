@@ -1,5 +1,5 @@
-## Datastructures & Algorithms assignment repo 📚
-- Updated June 22nd
+## Datastructures & Algorithms Assignment Repo 📚
+- Updated June 22nd, 2025.
 
   ### Assignment One: Average Temperature Calculator 🌡️
   - When clicking into the Arrays folder, you will find a single file titled "AverageTempCalculator"
