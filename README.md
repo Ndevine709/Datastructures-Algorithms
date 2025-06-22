@@ -16,7 +16,7 @@
   - This delete method handles invalid positions, deletion at the head, tail, and middle.
   - It also handles errors with print messages
  
-  ### Assignment Four: Undo Redo Manager
+  ### Assignment Four: Undo Redo Manager ↩️ ↪️
   - You will find this assignment under UndoRedo which contains UndoRedo.java, Main.java and DoubleNode.java
   - Main.java uses a menu to test the functionality of the undo and redo methods
   - Allows the user to add new states, undo and redo state changes, view the current state and latest state.
