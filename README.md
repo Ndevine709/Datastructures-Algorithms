@@ -1,5 +1,5 @@
 ## Datastructures & Algorithms Assignment Repo 📚
-- Updated June 22nd, 2025.
+- Updated July 14th, 2025.
 
   ### Assignment One: Average Temperature Calculator 🌡️
   - When clicking into the Arrays folder, you will find a single file titled "AverageTempCalculator"
@@ -20,3 +20,8 @@
   - You will find this assignment under UndoRedo which contains UndoRedo.java, Main.java and DoubleNode.java
   - Main.java uses a menu to test the functionality of the undo and redo methods
   - Allows the user to add new states, undo and redo state changes, view the current state and latest state.
+ 
+  ### Assignment Five: Animal Shelter 🐶🐱
+  - You will find this assignment under the "AnimalShelter" folder. This folder contains all the required files for this assignment
+  - Main.java is used as a menu for user testing of the program
+  - This assignment demonstrates the use of queues in java. 
